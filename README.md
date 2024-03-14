@@ -1,6 +1,6 @@
 # OSU Minimal Skin 🎮
 
-![Preview](https://github.com/AMN-D/OSU-MINIMAL-SKIN/assets/129135638/a0e3c559-27b9-4350-9477-e3cce8c1b002)
+![Preview](https://i.postimg.cc/VN7QtpSf/image.jpg)
 
 This skin is a combination of three different skins to create a minimal and clean look for osu! gameplay. 
 
